@@ -1,0 +1,1 @@
+export const mongodbURL = 'mongodb+srv://root:root@vignam.9nh7uuf.mongodb.net/user-collection?retryWrites=true&w=majority'
